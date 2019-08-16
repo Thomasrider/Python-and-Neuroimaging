@@ -121,6 +121,6 @@ anim.save('video.mp4', writer='ffmpeg')
 
 If you are trying this out for yourself, I would be happy to help you with any problems along the way. Just comment here or write me an email.
 
-You can download the full code of the project here and the video in the files section above. 
+You can download the full code of the project [here] (https://github.com/Thomasrider/Python-and-Neuroimaging/blob/master/neurovid.py) and the video [here] (https://github.com/Thomasrider/Python-and-Neuroimaging/blob/master/video.mp4). 
 
 
