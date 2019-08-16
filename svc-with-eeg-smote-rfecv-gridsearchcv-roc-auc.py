@@ -1,3 +1,7 @@
+###The dataset for this is the "Confused student EEG brainwave data" from Kaggle:  https://www.kaggle.com/wanghaohan/confused-eeg
+
+
+
 ## Import Modules
 import numpy as np
 import pandas as pd
